@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+/* Style Global */
+* {
+  background-color: #121212;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
