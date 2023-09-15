@@ -6,13 +6,28 @@
 <div class="articles">
   <div class="articles_big_card">
     <!-- Apenas um big-card -->
-    <app-big-card></app-big-card>
+    <!-- Componente big-card tem propriedades inputáveis que devem ser alimentadas -->
+    <app-big-card
+      photoCover="https://cdn.espn.com.br/image/wide/622_9ed38eb3-b595-3d4e-97ae-9525776648d9.jpg"
+      cardTitle="Mundial 2012"
+      cardDescription="Corinthians domina no Japão! Japoneses espantados com torcida do Corinthians."
+    ></app-big-card>
   </div>
 
   <div class="articles_small_cards">
     <!-- Vários small-cards -->
-    <app-small-card></app-small-card>
-    <app-small-card></app-small-card>
-    <app-small-card></app-small-card>
+    <app-small-card
+      photoCover="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blte015bc5a8a93a16a/634216dc762be510f72ffedc/getty_arena_corinthians.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+      cardTitle="Neo Química bate mais um record no Brasil"
+    ></app-small-card>
+    <app-small-card
+      photoCover="https://noticiasdotimao.com.br/wp-content/uploads/2023/06/FQWw9YXUYAUwSx-.webp"
+      cardTitle="Mascote de cara nova"
+    ></app-small-card>
+    <app-small-card
+      photoCover="https://centraldotimao.com.br/wp-content/uploads/2019/11/bdf68f07-d614-4a4c-bbf7-f751cd641ef2.jpg.640x360_q75_box-00640359_crop_detail.jpg"
+      cardTitle="Gigante Cássio pega mais um pênalti
+      "
+    ></app-small-card>
   </div>
 </div>
