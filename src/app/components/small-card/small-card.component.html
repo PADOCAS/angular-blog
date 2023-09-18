@@ -1,17 +1,25 @@
 <div class="container_small_card">
-  <div class="container_small_card_content">
-    <div class="img_small_card">
-      <img src="{{ photoCover }}" alt="" srcset="" />
+  <a [routerLink]="['content', id]">
+    <div class="container_small_card_content">
+      <div class="img_small_card">
+        <img src="{{ photoCover }}" alt="" srcset="" />
+      </div>
+
+      <div class="resume_small_card_content">
+        <div class="date_big_card">
+          <p>{{ cardData }}</p>
+        </div>
+
+        <div class="title_small_card">
+          <h1>
+            {{ cardTitle }}
+          </h1>
+        </div>
+      </div>
     </div>
 
-    <div class="title_small_card">
-      <h1>
-        <a [routerLink]="['content', id]">{{ cardTitle }}</a>
-      </h1>
+    <div class="sep_small_card">
+      <hr />
     </div>
-  </div>
-
-  <div class="sep_small_card">
-    <hr />
-  </div>
+  </a>
 </div>

@@ -10,6 +10,8 @@ export class BigCardComponent {
   @Input() photoCover:string = "";
   @Input() cardTitle:string = "";
   @Input() cardDescription:string = "";
+  @Input() cardResumoDescription:string = "";
+  @Input() cardData:string = "";
   //Propriedade ID para trabalhar com id dinamicos na navegação:
   @Input() id:string = "0";
 }

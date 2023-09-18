@@ -9,6 +9,7 @@ export class SmallCardComponent {
   // Propriedades inputáveis
   @Input() photoCover: string = "";
   @Input() cardTitle: string = "";
+  @Input() cardData: string = "";
   //Propriedade ID para trabalhar com id dinamicos na navegação:
   @Input() id:string = "0";
 }

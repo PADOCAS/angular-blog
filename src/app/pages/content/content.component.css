@@ -8,18 +8,25 @@
 }
 
 .content_description p {
-  color: rgb(198, 197, 197);
+  color: #898989;
+  line-height: 1.1;
   margin-top: 15px;
+  font-size: 18px;
+  padding: 0px 120px;
+  text-align: justify;
 }
-
 .content_cover {
   margin-top: 5px;
 }
 
 .content_cover img {
-  border: 5px solid gray;
+  border: 5px solid #898989;
   border-radius: 5px;
   width: 500px;
   height: 300px;
   min-width: 500px;
+}
+
+.content_data p, .content_description p {
+  color: #898989;
 }

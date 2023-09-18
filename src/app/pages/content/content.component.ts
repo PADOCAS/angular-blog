@@ -12,6 +12,7 @@ export class ContentComponent implements OnInit {
   photoCover: string = "";
   contentTitle: string = "";
   contentDescription: string = "";
+  contentData: string = "";
   private id: string | null = '0';
 
   //Ativa o Route:
@@ -32,5 +33,6 @@ export class ContentComponent implements OnInit {
     this.photoCover = result.photo;
     this.contentTitle = result.title;
     this.contentDescription = result.description;
+    this.contentData = result.data;
   }
 }
