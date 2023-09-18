@@ -1,8 +1,7 @@
 .container_big_card {
   margin-left: 20px;
   margin-right: 20px;
-  width: 550px;
-  height: 500px;
+  width: 700px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -31,4 +30,12 @@
 
 .img_big_card img {
   width: 100%;
+}
+
+.sep_big_card {
+  margin-top: 12px;
+  margin-bottom: 15px;
+}
+.sep_big_card hr {
+  color: #898989;
 }

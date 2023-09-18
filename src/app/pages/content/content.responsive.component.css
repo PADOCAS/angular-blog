@@ -1,0 +1,27 @@
+@media screen and (max-width: 800px) {
+  .container_content {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px 15px;
+  }
+
+  .content_cover img {
+    border: 3px solid #898989;
+    border-radius: 5px;
+    width: 100%;
+    height: 300px;
+    min-width: 100%;
+  }
+
+  .content_description p {
+    padding: 0px 0px;
+  }
+
+  .content_data p {
+    font-size: 18px;
+  }
+
+  .content_title h1 {
+    font-size: 18px;
+  }
+}

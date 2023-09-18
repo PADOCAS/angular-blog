@@ -1,0 +1,49 @@
+@media screen and (max-width: 1450px) {
+  .container_small_card {
+    width: 500px;
+  }
+
+  .img_small_card img {
+    width: 150px;
+    min-width: 150px;
+    margin-right: 0px;
+    height: 98%;
+    min-height: 98%;
+  }
+
+  .resume_small_card_content {
+    /* width: 50%; */
+    margin-left: 15px;
+  }
+
+  .title_small_card h1 {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .container_small_card {
+    width: 100%;
+    padding: 0px 15px;
+  }
+
+  .img_small_card img {
+    width: 150px;
+    min-width: 150px;
+    margin-right: 0px;
+    height: 98%;
+    min-height: 98%;
+    border: 3px solid #898989;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .title_small_card h1 {
+    font-size: 14px;
+  }
+
+  .date_big_card p {
+    font-size: 15px;
+  }
+}

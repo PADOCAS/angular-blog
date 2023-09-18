@@ -1,0 +1,33 @@
+@media screen and (max-width: 1450px) {
+  .container_big_card {
+    width: 500px;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .sep_big_card hr {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .container_big_card {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px 15px;
+  }
+
+  .img_big_card img {
+    border: 3px solid #898989;
+    border-radius: 5px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .img_big_card img {
+    height: 200px;
+  }
+}
+
+
