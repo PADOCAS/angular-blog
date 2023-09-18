@@ -3,7 +3,7 @@ export const dataFake = [
     id: '1',
     photo: 'https://cdn.espn.com.br/image/wide/622_9ed38eb3-b595-3d4e-97ae-9525776648d9.jpg',
     title: 'Mundial FIFA 2012',
-    data: 'Dezembro 12, 2012',
+    data: 'Dezembro 06, 2012',
     resumo_description: 'Corinthians chega ao Japão para disputa do Mundial FIFA 2012',
     description: `O Corinthians, enfim, chegou ao Japão para a disputa do Mundial de Clubes, exatos três dias depois de deixar o Brasil empurrado por uma multidão de 15 mil pessoas que invadiu o Aeroporto de Guarulhos para se despedir. E teve de tudo no desembarque alvinegro em Tóquio nesta quinta-feira, de medo de japoneses a correria, confusão e principalmente muita festa.<br><br>
     O dia começou longo para os corintianos que moram e que foram ao país asiático torcer pelo time do Parque São Jorge. Muitos se deslocaram diretamente a Nagoya para esperar pela equipe à porta do Hotel Hilton, onde a delegação iria se hospedar. Uma minoria - composta por cerca de 50 pessoas - foi ao Aeroporto de Narita, em Tóquio, aguardar a chegada dos ídolos.<br><br>
