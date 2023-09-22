@@ -1,29 +1,21 @@
-# AngularBlog
+# Desafio de Projeto - Criando um Blog com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+* <b>Desafio:</b>
+* Criar um blog -> Criei um para visualizar notícias do Corinthians (SCCP), onde o usuário pode navegar pelas notícias.
 
-## Development server
+* Exercicío faz parte do SanSantander Bootcamp 2023 - Fullstack Java+Angular, onde foi teve como base esse projeto inicial: <a href="https://github.com/felipeAguiarCode/angular-blog/" target="_blank" rel="noreferrer">felipeAguiarCode/angular-blog</a> Desenvolvido pelo <a href="https://github.com/felipeAguiarCode/" target="_blank" rel="noreferrer">Felipe Aguiar</a>.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Segue link do Bootcamp para quem tiver interesse: <a href="https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular/" target="_blank" rel="noreferrer">FullStack Java+Angular</a>
 
-## Code scaffolding
+<h3 align="left">Tecnologias:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/> </a> 
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto foi desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.1.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-
+Segue link para o Projeto: <a href="https://angular-blog-padocas.vercel.app/" target="_blank" rel="noreferrer">Projeto Blog Corinthians (SCCP)<a>
