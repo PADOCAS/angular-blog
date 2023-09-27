@@ -3,7 +3,7 @@
 * <b>Desafio:</b>
 * Criar um blog -> Criei um para visualizar notícias do Corinthians (SCCP), onde o usuário pode navegar pelas notícias.
 
-* Exercicío faz parte do SanSantander Bootcamp 2023 - Fullstack Java+Angular, onde foi teve como base esse projeto inicial: <a href="https://github.com/felipeAguiarCode/angular-blog/" target="_blank" rel="noreferrer">felipeAguiarCode/angular-blog</a> Desenvolvido pelo <a href="https://github.com/felipeAguiarCode/" target="_blank" rel="noreferrer">Felipe Aguiar</a>.
+* Exercicío faz parte do SanSantander Bootcamp 2023 - Fullstack Java+Angular, onde teve como base esse projeto inicial: <a href="https://github.com/felipeAguiarCode/angular-blog/" target="_blank" rel="noreferrer">felipeAguiarCode/angular-blog</a> Desenvolvido pelo <a href="https://github.com/felipeAguiarCode/" target="_blank" rel="noreferrer">Felipe Aguiar</a>.
 
 * Segue link do Bootcamp para quem tiver interesse: <a href="https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular/" target="_blank" rel="noreferrer">FullStack Java+Angular</a>
 
