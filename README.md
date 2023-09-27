@@ -1,4 +1,4 @@
-# Desafio de Projeto - Criando um Blog com Angular
+# Desafio de Projeto (DIO) - Criando um Blog com Angular
 
 * <b>Desafio:</b>
 * Criar um blog -> Criei um para visualizar notícias do Corinthians (SCCP), onde o usuário pode navegar pelas notícias.
