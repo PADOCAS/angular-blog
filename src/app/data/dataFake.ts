@@ -16,7 +16,7 @@ export const dataFake = [
   },
   {
     id: '2',
-    photo: 'https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blte015bc5a8a93a16a/634216dc762be510f72ffedc/getty_arena_corinthians.jpg?auto=webp&format=pjpg&width=3840&quality=60',
+    photo: 'https://lh3.googleusercontent.com/p/AF1QipMtCY0bxzFxKlwTVbQ_Lxpv4u44-elIRxhaUOaL=s680-w680-h510',
     title: 'Neo Química bate mais um record no Brasil',
     data: 'Julho 25, 2023',
     resumo_description: 'Neo Química bate mais um record',
